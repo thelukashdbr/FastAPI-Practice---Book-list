@@ -2,7 +2,7 @@
 
 A simple REST API project built with **FastAPI**, following the lessons and implementation presented in the Udemy course **[FastAPI - The Complete Course](https://www.udemy.com/course/fastapi-the-complete-course/)**.
 
-> 🇺🇸 English | 🇧🇷 [Português](README-pt-BR.md)
+> 🇧🇷 [Português](README-pt-BR.md)
 
 ## 📖 About the Project
 
