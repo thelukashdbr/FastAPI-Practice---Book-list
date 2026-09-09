@@ -187,7 +187,7 @@ This project was developed by following the course:
 **FastAPI - The Complete Course**
 Udemy: https://www.udemy.com/course/fastapi-the-complete-course/
 
-The original implementation and teaching materials belong to the course instructor and Udemy course.
+<img width="1600" height="1190" alt="image" src="https://github.com/user-attachments/assets/f3506d8e-fbe5-4ad3-a4f6-67bbb8ee2659" />
 
 ## 👨‍💻 About This Repository
 
